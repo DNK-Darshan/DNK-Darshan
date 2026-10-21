@@ -5,5 +5,5 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/darshanmaru30)
 
 <a href="https://www.credly.com/badges/edd92527-266a-4228-b31d-9758cc306986/public_url" target="_blank">
-  <img src="images/zephyr-technical-contributor.png" alt="Zephyr Technical Contributor" width="230"/>
+  <img src="images/zephyr-technical-contributor.png" alt="Zephyr Technical Contributor" width="200"/>
 </a>
